@@ -8,7 +8,7 @@ This demo can:
 - detect difference between aligned webpages and visualize bounding box (using closing operation in horizontal direction ensures the bounding box captures the whole row of difference)
 - Experimental: Read and compare text difference within detected bounding box
 
-# References
+## References
 
 - https://arxiv.org/pdf/1808.10584.pdf
 - https://github.com/madmaze/pytesseract
